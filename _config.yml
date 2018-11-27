@@ -3,7 +3,7 @@ title: 'Jeremy的博客'
 description: '学习笔记'
 keyword: 'Jeremy,学习,IT'
 url: 'https://jeremy125.github.io' # your host
-
+timezone: Asia/Shanghai
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
 
@@ -20,7 +20,7 @@ footer:
 author: 'Jeremy'
 nickname: 'Jeremy'
 bio: '从会计转行IT的不断补坑者'
-avatar: '/assets/img/profile.png'
+avatar: 'https://img0.pconline.com.cn/pconline/1404/02/4546077_co120p3133452-11.jpg'
 
 # Search
 search: true
